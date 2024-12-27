@@ -7,7 +7,7 @@ namespace Tyuiu.MerzhinskiyOO.Sprint1.Task0.V10
         {
             Console.WriteLine("Hello, World!");
             Class1 ds = new Class1();
-            Console.WriteLine("* УСЛОВИЕ:                                                                *");
+            Console.WriteLine("* УСЛОВИЕ:                                                                *"); 
             Console.WriteLine("* Написать программу, которая вычисляет выражение (3/6-4)*3 и             *");
             Console.WriteLine("* печатает результат на экране.                                           *");
             Console.WriteLine("*                                                                         *");
