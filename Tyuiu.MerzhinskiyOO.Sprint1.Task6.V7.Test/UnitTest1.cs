@@ -8,6 +8,10 @@ namespace Tyuiu.MerzhinskiyOO.Sprint1.Task6.V7.Test
         [TestMethod]
         public void TestMethod1()
         {
+            DataService ds = new DataService();
+            string h = "Яѓър";
+            var result = ds.DeleteLastLetter(h);
+            Assert.AreEqual("Яѓъ", result);
         }
     }
 }
