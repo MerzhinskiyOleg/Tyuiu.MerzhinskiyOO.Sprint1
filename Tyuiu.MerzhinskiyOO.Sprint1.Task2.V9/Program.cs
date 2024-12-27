@@ -1,4 +1,6 @@
-﻿namespace Tyuiu.MerzhinskiyOO.Sprint1.Task2.V9
+﻿using Tyuiu.MerzhinskiyOO.Sprint1.Task2.V9.Lib;
+
+namespace Tyuiu.MerzhinskiyOO.Sprint1.Task2.V9
 {
     internal class Program
     {
